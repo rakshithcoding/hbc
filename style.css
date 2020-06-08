@@ -3,7 +3,7 @@ body {
   /* background-image: url("/assets/images/or.png");
   background-repeat: repeat-y;
   background-size: 50% auto; */
-  background: linear-gradient(180deg, #9d1b1d 50%, #444444 50%);
+  background: linear-gradient(135deg, #9d1b1d 50%, #444444 50%);
 }
 
 /* .bg {

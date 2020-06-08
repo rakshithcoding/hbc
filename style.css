@@ -1,0 +1,32 @@
+body {
+  height: 100vh;
+  /* background-image: url("/assets/images/or.png");
+  background-repeat: repeat-y;
+  background-size: 50% auto; */
+  background: linear-gradient(90deg, #9d1b1d 50%, #444444 50%);
+}
+
+/* .bg {
+    background: linear-gradient(-45deg, #ac32e4, #7918f2, #4801ff);
+    width: 100%;
+    min-height: 100vh;
+  } */
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: none;
+}
+
+.content {
+  text-align: center;
+
+  font-family: calibri;
+}
+
+.m-logo {
+  width: 290px;
+  border-radius: 10px;
+}
